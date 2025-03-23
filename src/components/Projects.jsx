@@ -67,6 +67,27 @@ const Projects = () => {
                 ]}
               />
             </div>
+            <div className="pt-5">
+              <DescCard
+                startDate="December 2024"
+                endDate="January 2025"
+                jobTitle="VALUE WISE"
+                companyName="Tech Stack: Jupyter, Flask, Hugging Face API, Html, Css, Javascript"
+                companyLocation={
+                  <a
+                    href="https://github.com/aaanishaaa/to_do_app"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Project Link
+                  </a>
+                }
+                description={[
+                  "Developed a data-driven application that assists realtors in determining property prices based on location-specific trends and market data, achieving an pricing accuracy of 98.7%.",
+
+                ]}
+              />
+            </div>
           </div>
         </div>
         <Footer />
