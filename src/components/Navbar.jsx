@@ -4,13 +4,13 @@ import logo from '../assets/logo.png';
 
 const Navbar = () => {
   return (
-    <div className="bg-[#f8f8f8] p-8 sticky top-0">
+    <div className="bg-[#f8f8f8] p-8 sticky top-0 shadow-lg">
       <nav className="container mx-auto text-md">
         <ul className="flex space-x-4 justify-between">
           <li className="flex items-center space-x-3">
             <img className="w-13" src={logo} alt="Logo" />
             <span>
-              <b className="font-semibold text-2xl">Anisha Rawat</b> / SOFTWARE ENGINEER
+              <b className="font-semibold text-2xl">Anisha Rawat</b> / FULL STACK DEVELOPER
             </span>
           </li>
           <div className="flex items-center space-x-6">
