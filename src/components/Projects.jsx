@@ -15,25 +15,14 @@ const Projects = () => {
           <div>
             <div className="pt-5">
               <DescCard
-                startDate="December 2022"
-                endDate="January 2023"
-                jobTitle="PARKING MANAGEMENT APP"
-                companyName="Tech Stack : OpenCV, WebApp - Html, CSS | Android App - Flutter, Dart"
-                description={[
-                  "Made a Functional Android App on Android Studio for smart and effective street parking.",
-                  "Was among the Top 30 teams in our college out of 130 Teams.",
-                ]}
-              />
-            </div>
-            <div className="pt-5">
-              <DescCard
-                startDate="May 2024"
-                endDate="May 2024"
-                jobTitle="LOAN CALCULATOR"
-                companyName="HTML, CSS, JavaScript"
+                startDate="Feb 2025"
+                endDate="Feb 2025"
+                jobTitle="DocuMind"
+                companyName="Tech Stack : Python, Streamlit, Langchain, GeminiAPI, PyPDF, HuggingFaceBgeEmbeddings,
+ConversationBufferMemory"
                 companyLocation={
                   <a
-                    href="https://github.com/aaanishaaa/loancal"
+                    href="https://github.com/aviiiii01/Docu_Mind-chatbot"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -41,20 +30,19 @@ const Projects = () => {
                   </a>
                 }
                 description={[
-                  "Designed a JavaScript loan calculator with an interactive graph for visualizing loan payments, interest, and principal over time.",
-                  "Showcasing proficiency in frontend development.",
+                  "Built an AI chatbot that transformed 100+ pages of PDF documents into a searchable Q&A knowledge base; improved information retrieval time by 70% using GeminiAPI and LangChain memory components",
                 ]}
               />
             </div>
             <div className="pt-5">
               <DescCard
-                startDate="May 2024"
-                endDate="May 2024"
-                jobTitle="TO-DO APP USING DJANGO "
-                companyName="Tech Stack: Python-Django, Html, Css"
+                startDate="March 2025"
+                endDate="March 2025"
+                jobTitle="MailGenie"
+                companyName="Python, Streamlit, Langchain, SMTP, SSL(Secure Socket Layers)"
                 companyLocation={
                   <a
-                    href="https://github.com/aaanishaaa/to_do_app"
+                    href="https://github.com/aviiiii01/MailGenie"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -62,20 +50,19 @@ const Projects = () => {
                   </a>
                 }
                 description={[
-                  "Built a user-friendly, multi-user To-Do app with Django, featuring task creation, updates, and deletion, enhancing task management efficiency by 40%.",
-
+                  "Developed an AI email assistant that generated and sent personalized emails for 50+ users; reduced email writing time by over 80% using prompt templates and LangChain..",
                 ]}
               />
             </div>
             <div className="pt-5">
               <DescCard
-                startDate="December 2024"
-                endDate="January 2025"
-                jobTitle="VALUE WISE"
-                companyName="Tech Stack: Jupyter, Flask, Hugging Face API, Html, Css, Javascript"
+                startDate="Nov 2024"
+                endDate="Dec 2024"
+                jobTitle="Medical Report Analyzer "
+                companyName="Tech Stack: Python, Djnago, HTML, CSS, JavaScript"
                 companyLocation={
                   <a
-                    href="https://github.com/aaanishaaa/to_do_app"
+                    href="https://github.com/aviiiii01/Medical-Report-Anlasyzer"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -83,7 +70,27 @@ const Projects = () => {
                   </a>
                 }
                 description={[
-                  "Developed a data-driven application that assists realtors in determining property prices based on location-specific trends and market data, achieving an pricing accuracy of 98.7%.",
+                  "Engineered a comparative analysis feature within the Medical Report Analyzer that provided insights on medical test results, leading to an increase in diagnostic accuracy for users by 30% over a three-month period",
+                ]}
+              />
+            </div>
+            <div className="pt-5">
+              <DescCard
+                startDate="Dec 2024"
+                endDate="Jan 2025"
+                jobTitle="Farm-Mitra"
+                companyName="Tech Stack: Python, Djnago, HTML, CSS, JavaScript"
+                companyLocation={
+                  <a
+                    href="https://github.com/aviiiii01/Farm-Mitra"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Project Link
+                  </a>
+                }
+                description={[
+                  "a platform that eliminates middlemen by connecting farmers directly with buyers. This ensuresfair pricing, increases farmers’ profits, and provides consumers with fresh produce at competitive rates.",
 
                 ]}
               />

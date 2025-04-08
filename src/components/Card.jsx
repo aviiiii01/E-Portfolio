@@ -6,7 +6,7 @@ import {
   FaPen,
   FaCode,
 } from "react-icons/fa";
-import photo from "../assets/photo.jpg";
+import photo from "../assets/Avinash Lodhi.jpeg";
 import { Link } from "react-router-dom";
 
 const Card = () => {
@@ -18,22 +18,22 @@ const Card = () => {
             <div className="flex justify-center ">
               <img
                 src={photo}
-                alt="Anisha"
+                alt="Avinash"
                 className="w-45 h-45 object-cover rounded-full border-4 border-white"
               />
             </div>
             <h2 className="text-xl font-bold mt-4 text-[#284b63]">
-              Anisha Rawat
+              Avinash Lodhi
             </h2>
             <div className="w-20 h-1 bg-blue-600 mx-auto my-4"></div>
             <p className="text-[#284b63] tracking-wide mt-8 mb-10">
-              Full Stack Developer / Software Engineer / Designer / ML
+              Python Developer / Software Engineer / ML
               Enthusiast
             </p>
           </div>
           <div className="flex justify-center space-x-4 text-gray-700 px-7 py-3 mt-5 bg-[#f8f8f8]">
             <a
-              href="https://github.com/aaanishaaa"
+              href="https://github.com/aviiiii01"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -43,7 +43,7 @@ const Card = () => {
               />
             </a>
             <a
-              href="https://x.com/anisharawr"
+              href="https://x.com/AvinashLodhi01"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -53,7 +53,7 @@ const Card = () => {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/anisha-rawat/"
+              href="https://www.linkedin.com/in/avinash-l-9074871b0/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -62,18 +62,9 @@ const Card = () => {
                 size={25}
               />
             </a>
+            
             <a
-              href="https://aaanishaaa.hashnode.dev/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaPen
-                className="cursor-pointer hover:text-green-700"
-                size={25}
-              />
-            </a>
-            <a
-              href="https://leetcode.com/u/aaanishaaa/"
+              href="https://leetcode.com/u/aviiiii__01/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -111,10 +102,9 @@ const Card = () => {
           </div>
           <div>
             <p className="text-justify text-light pb-5">
-              I'm a Web3 enthusiast and full-stack developer passionate about
-              blockchain, machine learning, and problem-solving. I love building
-              cool projects, competitive programming, and crafting amazing user
-              experiences. Always eager to learn and explore new tech!
+            I am a third-year B.Tech student at ABES Engineering College with a strong interest in Artificial Intelligence, Machine Learning, DevOps, and full-stack development. 
+            He is passionate about building real-world projects that solve practical problems, with experience in Python, React Native, and Django. 
+            Avinash is also exploring innovative ideas in education, automation, and startup development, aiming to combine technology with impactful solutions.
             </p>
           </div>
         </div>
@@ -122,7 +112,7 @@ const Card = () => {
           <b>
             Got a Opportunity?{" "}
             <a
-              href="mailto:anisharawat21@gmail.com"
+              href="mailto:avinashlodhi04@gmail.com"
               className="hover:text-[#0cff59]"
             >
               Email Me!

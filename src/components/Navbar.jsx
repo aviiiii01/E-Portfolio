@@ -10,7 +10,7 @@ const Navbar = () => {
           <li className="flex items-center space-x-3">
             <img className="w-13" src={logo} alt="Logo" />
             <span>
-              <b className="font-semibold text-2xl">Anisha Rawat</b> / FULL STACK DEVELOPER
+              <b className="font-semibold text-2xl">Avinash Lodhi</b> / Python Developer
             </span>
           </li>
           <div className="flex items-center space-x-6">

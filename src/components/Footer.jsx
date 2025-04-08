@@ -9,7 +9,7 @@ const Footer = () => {
           <ul className="flex justify-center space-x-4 mt-2">
             <li>
               <a
-                href="https://leetcode.com/u/aaanishaaa/"
+                href="https://leetcode.com/u/aviiiii__01/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#9c89b8]"
@@ -19,7 +19,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://github.com/aaanishaaa"
+                href="https://github.com/aviiiii01"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#9c89b8]"
@@ -29,7 +29,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/anisha-rawat/"
+                href="https://www.linkedin.com/in/avinash-l-9074871b0/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-400"
@@ -39,7 +39,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://x.com/anisharawr"
+                href="https://x.com/AvinashLodhi01"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-400"
@@ -49,7 +49,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="mailto:anisharawat21@gmail.com"
+                href="mailto:avinashlodhi04@gmail.com"
                 className="hover:text-gray-400"
               >
                 Email

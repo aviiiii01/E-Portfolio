@@ -22,22 +22,7 @@ const Resume = () => {
               Get My Resume!
             </button>
           </div>
-        </div>
-        <div className="pt-5">
-          <DescCard
-            startDate="December 2023"
-            endDate="August 2024"
-            jobTitle="Design and Web Development Intern"
-            companyName="MYCTO INNOVATIONS"
-            companyLocation="Remote"
-            description={[
-              "Developed and maintained web applications using React and Node.js.",
-              "Enhanced UI/UX design based on user feedback and analytics.",
-              "Collaborated with cross-functional teams to optimize web functionality",
-              "Contributed to team-building initiatives.",
-            ]}
-          />
-        </div>
+        </div>  
         <div className="text-2xl py-10 font-semibold px-78">Education</div>
         <div>
           <DescCard
@@ -47,7 +32,7 @@ const Resume = () => {
             companyName="ABES ENGINEERING COLLEGE"
             companyLocation="Ghaziabad, India"
             description={[
-              "CGPA : 8.4 (till sem 5)",
+              "CGPA : 8.1 (till sem 5)",
               "Coursework: Data Structures & Algorithms, Web Development, Operating Systems, Database Management Systems, Computer Networks, Computer Architecture, Objected-Oriented Programming, Advanced Mathematics",
             ]}
           />
@@ -57,13 +42,13 @@ const Resume = () => {
             startDate="2021"
             endDate="2022"
             jobTitle="12th Grade"
-            companyName="RALLI INTERNATIONAL SCHOOL"
-            companyLocation="Ghaziabad, India"
+            companyName="Renaissance School"
+            companyLocation="Bulandshahr, India"
             description={[
-              "CGPA : 9.8 ",
+              "CGPA : 9.5 ",
               "Coursework: Science",
               "Board: CBSE",
-              "Chemistry Topper",
+              "Physics and Maths has 97 marks",
               "Participated in various Science Competitions",
             ]}
           />
@@ -73,13 +58,13 @@ const Resume = () => {
             startDate="2019"
             endDate="2020"
             jobTitle="10th Grade"
-            companyName="RALLI INTERNATIONAL SCHOOL"
-            companyLocation="Ghaziabad, India"
+            companyName="Renaissance School"
+            companyLocation="bulandshahr, India"
             description={[
-              "CGPA : 9.5",
+              "CGPA : 9.3",
               "Board: CBSE",
               "Participated in various Art Competitions",
-              "Played Basketball at School Level",
+              "Played Football at School Level",
             ]}
           />
         </div>
@@ -91,32 +76,32 @@ const Resume = () => {
             <ul>
               <li>
                 <b>PROGRAMMING LANGUAGES:</b>{" "}
-                <p className="text-gray-600">Python, C++ | C, Solidity </p>
+                <p className="text-gray-600">Python, C++ | C, JavaScript </p>
               </li>
               <li>
                 <b>Core Skills:</b>
                 <p className="text-gray-600">
                   {" "}
-                  Data Structures and Algorithms, Problem Solving, Blockchain{" "}
+                  Data Structures and Algorithms, Problem Solving, {" "}
                 </p>
               </li>
               <li>
                 <b>Frontend Development: </b>
                 <p className="text-gray-600">
-                  HTML, CSS, JavaScript, ReactJS, TailwindCSS, NextJS{" "}
+                  HTML, CSS, JavaScript{" "}
                 </p>
               </li>
               <li>
                 <b>Backend Development: </b>
                 <p className="text-gray-600">
-                  Django, Clerk Authentication, MongoDB{" "}
+                  Django, Flask{" "}
                 </p>
               </li>
               <li>
                 <b>Tools and Platforms: </b>
                 <p className="text-gray-600">
                   Figma, Kubernetes, AWS Experience working in Unix/Linux
-                  environments.
+                  environments,Git,Github,VsCode.
                 </p>
               </li>
               <li> <b>INTERPERSONAL SKILLS</b>
