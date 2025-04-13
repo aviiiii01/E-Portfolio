@@ -13,14 +13,15 @@ const Resume = () => {
       </div>
       <div>
         <div className="flex space-x-121 justify-center items-center p-5">
-          <div className="text-2xl font-semibold">Experience</div>
+          
           <div>
-            <button
-              type="button"
-              class="text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 :focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
-            >
-              Get My Resume!
-            </button>
+            <a href="Resume.pdf" download="Avinash_Lodhi_Resume.pdf">
+              <button
+                type="button"
+                class="text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 :focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
+                Get My Resume!
+              </button>
+            </a>
           </div>
         </div>  
         <div className="text-2xl py-10 font-semibold px-78">Education</div>

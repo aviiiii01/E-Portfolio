@@ -29,11 +29,7 @@ const Navbar = () => {
                 PROJECTS
               </Link>
             </li>
-            <li>
-              <Link to="/contact" className="text-[#8e7dbe] hover:text-gray-400">
-                CONTACT ME
-              </Link>
-            </li>
+           
           </div>
         </ul>
       </nav>
